@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>LOGIN</title>
+	<center><title>LOGIN</title>
 </head>
 <body>
 	<div id="main">
