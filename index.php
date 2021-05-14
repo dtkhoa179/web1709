@@ -69,7 +69,7 @@ nav li a{
 }
 footer{
             background-color:#ccc;
-            text-align:center;
+            text-align:left;
             padding:25px;
             font-size:18px;
         }
