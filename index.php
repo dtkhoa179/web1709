@@ -72,7 +72,7 @@ footer{
      width: 100%;
      height: auto;
      padding: 50px 100px;
-     background: #F56BD8;
+     background: #CC9FFA;
      display: flex;
      justify-content: space-between;
      flex-wrap: wrap;
