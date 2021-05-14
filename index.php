@@ -119,9 +119,6 @@ mysqli_close($con);
 <div class="message_box" style="margin:10px 0px;">
 <?php echo $status; ?>
 </div>
-
-<br /><br />
-<center><a href="https://ctthanh.com"><strong>Copyright &copy 2021 by CTTHANH</strong></a></center>
 </div>
 </body>
 </html>
