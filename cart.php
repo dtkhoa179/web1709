@@ -127,7 +127,6 @@ $total_price += ($product["price"]*$product["quantity"]);
 
 
 <br /><br />
-<center><a href="https://ctthanh.com"><strong>Copyright &copy 2021 by CTTHANH</strong></a> <br /><br /></center>
 </div>
 </body>
 </html>
