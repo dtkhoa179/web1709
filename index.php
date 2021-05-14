@@ -138,13 +138,13 @@ mysqli_close($con);
 </div>
 <footer>
      <div class="about">
-             <h2>Thông Tin Liên Hệ</h2>
+             <h2>Contact Info</h2>
              <ul class="info">
                  <li>
                      <span><i class="fa fa-map-marker"></i></span>
-                     <span>Đường Số 1<br />
-                         Quận 1, Thành Phố Hồ Chí Minh<br />
-                         Việt Nam</span>
+                     <span>1st Street<br />
+                         District 1, Ho Chi Minh City<br />
+                         Vietnam</span>
                  </li>
                  <li>
                      <span><i class="fa fa-phone"></i></span>
