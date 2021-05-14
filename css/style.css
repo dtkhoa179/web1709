@@ -1,7 +1,6 @@
 .product_wrapper {
 	float:left;
 	padding: 10px;
-	text-align: center;
 	}
 .product_wrapper:hover {
 	box-shadow: 0 0 0 2px #e5e5e5;
