@@ -79,7 +79,6 @@ nav li a{
 <ul>
 <li><a href = "index.php">Home</a></li>
 <li><a href = "about.php">About</a></li>
-<li><a href = "toys.php">Toys</a></li>
 <li><a href = "bonus.php">Bonus</a></li>
 <li><a href = "login.php">Login</a></li>
 </ul>
