@@ -67,6 +67,12 @@ nav li a{
 	text-decoration: none;
 	color: #fff;
 }
+footer{
+            background-color:#ccc;
+            text-align:center;
+            padding:25px;
+            font-size:18px;
+        }
 </style>
 </head>
 <head>
@@ -120,5 +126,17 @@ mysqli_close($con);
 <?php echo $status; ?>
 </div>
 </div>
+<footer>
+     <div class="about">
+             <h2>About us</h2>
+             <p>Lorem ipsumdolor sit...</p>
+             <ul class="social-icon">
+                 <li><a href=""><i class="fa fa-facebook"></i></a></li>
+                 <li><a href=""><i class="fa fa-twitter"></i></a></li>
+                 <li><a href=""><i class="fa fa-instagram"></i></a></li>
+                 <li><a href=""><i class="fa fa-youtube"></i></a></li>
+             </ul>
+         </div>
+</footer>
 </body>
 </html>
