@@ -86,7 +86,7 @@ nav li a{
 </nav>
 <div style="width:700px; margin: 100 auto;">
 
-<h2><center>Welcome to the DTK toy store</h2>   
+<h2><center>Welcome to the ATN toy store</h2>   
 <br>
 
 <?php
