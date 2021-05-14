@@ -68,11 +68,21 @@ nav li a{
 	color: #fff;
 }
 footer{
-            background-color:#ccc;
-            text-align:left;
-            padding:25px;
-            font-size:18px;
-        }
+     position: relative;
+     width: 100%;
+     height: auto;
+     padding: 50px 100px;
+     background: #F56BD8;
+     display: flex;
+     justify-content: space-between;
+     flex-wrap: wrap;
+ }
+footer .container{
+     display: flex;
+     justify-content: space-between;
+     flex-wrap: wrap;
+     flex-direction: row;
+ }
 </style>
 </head>
 <head>
