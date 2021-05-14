@@ -138,13 +138,24 @@ mysqli_close($con);
 </div>
 <footer>
      <div class="about">
-             <h2>About us</h2>
-             <p>Lorem ipsumdolor sit...</p>
-             <ul class="social-icon">
-                 <li><a href=""><i class="fa fa-facebook"></i></a></li>
-                 <li><a href=""><i class="fa fa-twitter"></i></a></li>
-                 <li><a href=""><i class="fa fa-instagram"></i></a></li>
-                 <li><a href=""><i class="fa fa-youtube"></i></a></li>
+             <h2>Thông Tin Liên Hệ</h2>
+             <ul class="info">
+                 <li>
+                     <span><i class="fa fa-map-marker"></i></span>
+                     <span>Đường Số 1<br />
+                         Quận 1, Thành Phố Hồ Chí Minh<br />
+                         Việt Nam</span>
+                 </li>
+                 <li>
+                     <span><i class="fa fa-phone"></i></span>
+                     <p><a href="#">+84 123 456 789</a>
+                         <br />
+                         <a href="#">+84 963 852 741</a></p>
+                 </li>
+                 <li>
+                     <span><i class="fa fa-envelope"></i></span>
+                     <p><a href="#">demo@gmail.com</a></p>
+                </li>
              </ul>
          </div>
 </footer>
